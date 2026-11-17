@@ -1,0 +1,14 @@
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\bin\Debug\net10.0\DClinicServer.exe
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\bin\Debug\net10.0\DClinicServer.deps.json
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\bin\Debug\net10.0\DClinicServer.runtimeconfig.json
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\bin\Debug\net10.0\DClinicServer.dll
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\bin\Debug\net10.0\DClinicServer.pdb
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\obj\Debug\net10.0\DClinicServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\obj\Debug\net10.0\DClinicServer.AssemblyInfoInputs.cache
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\obj\Debug\net10.0\DClinicServer.AssemblyInfo.cs
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\obj\Debug\net10.0\DClinicServer.csproj.CoreCompileInputs.cache
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\obj\Debug\net10.0\DClinicServer.dll
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\obj\Debug\net10.0\refint\DClinicServer.dll
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\obj\Debug\net10.0\DClinicServer.pdb
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\obj\Debug\net10.0\DClinicServer.genruntimeconfig.cache
+C:\Users\college\Desktop\dclinic_csp\DClinicServer\obj\Debug\net10.0\ref\DClinicServer.dll
